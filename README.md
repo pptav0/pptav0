@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pptav0
 - 👀 I’m interested in data analytics and machine learning
-- 🌱 I’m currently learning machine learning
+- 🌱 I work with Rust, Python, and Julia
 - 💞️ I’m looking to collaborate on financial markets analysis and algo-trading
 - 📫 How to reach me ... send me @dm
 
